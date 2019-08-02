@@ -13,3 +13,11 @@ Linux基础知识
       systemd	执行	multi-user.target	下的getty.target及登陆服务;
       systemd	执行	graphical需要的服务
 
+
+
+
+
+2 linux /proc
+https://www.cnblogs.com/linux-wang/p/8142909.html
+
+3 
