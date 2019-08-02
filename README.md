@@ -18,6 +18,6 @@ Linux基础知识
 
 
 2 linux /proc
-https://www.cnblogs.com/linux-wang/p/8142909.html
+https://blog.csdn.net/caihaitao2000/article/details/81674013
 
 3 
