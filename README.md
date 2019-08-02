@@ -20,4 +20,6 @@ Linux基础知识
 2 linux /proc
 https://blog.csdn.net/caihaitao2000/article/details/81674013
 
-3 
+3 linux下的重要目录及其作用
+
+https://blog.csdn.net/h___q/article/details/82828534
